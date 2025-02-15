@@ -5,6 +5,10 @@
       "toClass": "/Game/PrimalEarth/Dinos/Toad/ARKOLOGY_Toad_Character_BP.ARKOLOGY_Toad_Character_BP"
     },
     {
+      "fromClass": "/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP",
+      "toClass": "/Game/PrimalEarth/Dinos/Thylacoleo/ARKOLOGY_Thylacoleo_Character_BP.ARKOLOGY_Thylacoleo_Character_BP"
+    },
+    {
       "fromClass": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP",
       "toClass": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP_Aberrant.Arthro_Character_BP_Aberrant"
     }
